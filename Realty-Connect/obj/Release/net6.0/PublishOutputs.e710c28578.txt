@@ -1,0 +1,13 @@
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Realty-Connect.exe
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\appsettings.Development.json
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\appsettings.json
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Realty-Connect.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Realty-Connect.deps.json
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Realty-Connect.runtimeconfig.json
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Realty-Connect.pdb
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\AWSSDK.Core.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\AWSSDK.DynamoDBv2.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Microsoft.OpenApi.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\63927\AppData\Local\Temp\4c20e010-9e1f-4cd3-9a46-bacce955eb7b\Swashbuckle.AspNetCore.SwaggerUI.dll
